@@ -9,4 +9,4 @@ apscheduler
 requests
 psutil
 pyromod
-pyproject.toml-based<=1.0.0
+pyproject.toml-based<=1.5.7
