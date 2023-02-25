@@ -10,3 +10,4 @@ requests
 psutil
 pyromod
 git+https://github.com/pypa/pyproject-hooks
+pip install --upgrade wheel
